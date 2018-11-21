@@ -1,0 +1,8 @@
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\bin\Debug\fuel.csv
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\bin\Debug\Cars.exe.config
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\bin\Debug\Cars.exe
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\bin\Debug\Cars.pdb
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\obj\Debug\Cars.exe
+C:\Users\kevin.villar\documents\visual studio 2017\Projects\LINQ\Features\Cars\obj\Debug\Cars.pdb
